@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Ridhwan Shodiq Ramadhan**.<br>
+
+Saya seorang **Mahasiswa Sistem Informasi** di **Universitas Amikom Yogyakarta**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ridhwan-shodiq-r/)ku ya.
 
 <!--
 **ridwannnsr/ridwannnsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
